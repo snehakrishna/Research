@@ -1,4 +1,4 @@
-# Research
+# Identifying a Ranking of Plant Preferences for a Pollinator
 
 This project aims to model a pollinator's interaction with plant species in a meadow. This code base is the final code base used in the undergraduate thesis titled "Identifying a Ranking of Plant Preferences for a Pollinator".
 
