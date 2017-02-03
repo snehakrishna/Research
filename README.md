@@ -12,3 +12,5 @@ Our findings showed that a model with preferences performs better than a model w
 To explain the interactions more fully, we incorporated the traits of the plants into the score of the plant. We found that the traits do have some effect on the score of the plant, but this model again does not fully explain the interactions.
 
 Our model learned pollinator preferences by utilizing four years of data collected at the HJ Andrews Experimental Forest.
+
+Code written for the pupose of the thesis can be found in the folder Code_datasets_generateddata
